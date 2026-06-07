@@ -44,6 +44,10 @@ Download these files and place them in the project folder before running:
    https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/details/download-telecharger.cfm
    Select: Comprehensive download files → Ontario CSDs and DAs
 
+3.  *Census Data and Shapefile Can be Downloaded here for exact data used**
+   https://drive.google.com/drive/folders/1z6Wa8yLsvTddJ0bar8BQ0jj6L3ZDf0vo?usp=drive_link
+
+
 ## Files Included
 - `Code.py` — main analysis script
 - `hosipitals_peel.csv` — hospital coordinates
